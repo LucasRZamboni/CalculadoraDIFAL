@@ -22,3 +22,17 @@ D:\C#\DIFAL\DIFAL\obj\Debug\DIFAL.exe
 D:\C#\DIFAL\DIFAL\obj\Debug\DIFAL.pdb
 D:\C#\DIFAL\DIFAL\obj\Debug\DIFAL.Dicas.resources
 D:\C#\DIFAL\DIFAL\obj\Debug\DIFAL.Loading.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\bin\Debug\DIFAL.exe.config
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\bin\Debug\DIFAL.exe
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\bin\Debug\DIFAL.pdb
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.Barcode.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.Dicas.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.Form1.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.Loading.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.Properties.Resources.resources
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.exe
+C:\Users\lucas\Desktop\Projetos\DIFAL\DIFAL\obj\Debug\DIFAL.pdb

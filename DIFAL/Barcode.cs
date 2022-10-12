@@ -22,9 +22,8 @@ namespace DIFAL
         {
             Global.cod_barra = tb_cod_barra.Text;
 
-            Global.bar_code = Regex.Replace(Global.cod_barra, @"\s", "");
-            
-
+            Global.bar_code = Global.cod_barra.Replace(" ", "").Replace("-", "").Replace(".", "").Replace(",", "").Replace("@", "");
+    
             tb_cod_ajustado.Text = Global.bar_code;
 
             //MessageBox.Show("Barcode was set corretly", "Adjustment Done!!",MessageBoxButtons.OK,MessageBoxIcon.Information);
